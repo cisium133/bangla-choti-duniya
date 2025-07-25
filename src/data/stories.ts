@@ -186,3 +186,27 @@ export async function getRelatedStories(currentStory: Story, limit: number = 3):
     )
     .slice(0, limit);
 }
+
+// Get categories with actual story counts from MD files
+export async function getCategoriesWithCounts(): Promise<StoryCategory[]> {
+  const stories = await getAllStories();
+  const categoryCounts: { [key: string]: number } = {};
+  
+  // Count stories by category
+  stories.forEach(story => {
+    const category = story.category || 'অন্যান্য';
+    categoryCounts[category] = (categoryCounts[category] || 0) + 1;
+  });
+  
+  // Create category objects and sort by count (descending)
+  const categoriesWithCounts = Object.entries(categoryCounts)
+    .map(([name, count]) => ({
+      id: name.toLowerCase().replace(/\s+/g, '-'),
+      name,
+      description: `${name} বিভাগের গল্পসমূহ`,
+      count
+    }))
+    .sort((a, b) => b.count - a.count);
+  
+  return categoriesWithCounts;
+}

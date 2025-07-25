@@ -6,45 +6,49 @@ import { Footer } from '../components/Footer';
 import { StoryCard } from '../components/StoryCard';
 import { SEO } from '../components/SEO';
 import { DateFilter } from '../components/DateFilter';
-import { getLatestStories, categories, searchStories } from '../data/stories';
-import { Story } from '../types/story';
+import { getAllStories, getCategoriesWithCounts, searchStories } from '../data/stories';
+import { Story, StoryCategory } from '../types/story';
+import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationNext, PaginationPrevious } from '@/components/ui/pagination';
 
 const Index = () => {
   const [searchResults, setSearchResults] = useState<Story[]>([]);
   const [isSearching, setIsSearching] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
-  const [latestStories, setLatestStories] = useState<Story[]>([]);
+  const [allStories, setAllStories] = useState<Story[]>([]);
   const [filteredStories, setFilteredStories] = useState<Story[]>([]);
+  const [categories, setCategories] = useState<StoryCategory[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
-  const [hasMoreStories, setHasMoreStories] = useState(true);
-  const [isLoadingMore, setIsLoadingMore] = useState(false);
   const [startDate, setStartDate] = useState<Date>();
   const [endDate, setEndDate] = useState<Date>();
   const storiesPerPage = 12;
 
   useEffect(() => {
-    const loadStories = async () => {
-      console.log('Starting to load stories...');
+    const loadData = async () => {
+      console.log('Starting to load stories and categories...');
       try {
-        const latest = await getLatestStories(storiesPerPage); // Load first batch
+        const [stories, categoriesData] = await Promise.all([
+          getAllStories(),
+          getCategoriesWithCounts()
+        ]);
         
-        console.log('Latest stories:', latest.length);
+        console.log('All stories:', stories.length);
+        console.log('Categories:', categoriesData.length);
         
-        setLatestStories(latest);
-        setFilteredStories(latest);
-        setHasMoreStories(latest.length === storiesPerPage);
+        setAllStories(stories);
+        setFilteredStories(stories);
+        setCategories(categoriesData);
       } catch (error) {
-        console.error('Error loading stories:', error);
-        setLatestStories([]);
+        console.error('Error loading data:', error);
+        setAllStories([]);
         setFilteredStories([]);
-        setHasMoreStories(false);
+        setCategories([]);
       } finally {
         setIsLoading(false);
       }
     };
 
-    loadStories();
+    loadData();
   }, []);
 
   const handleSearch = async (query: string) => {
@@ -73,13 +77,14 @@ const Index = () => {
   const handleDateFilter = (start?: Date, end?: Date) => {
     setStartDate(start);
     setEndDate(end);
+    setCurrentPage(1); // Reset to first page when filtering
     
     if (!start && !end) {
-      setFilteredStories(latestStories);
+      setFilteredStories(allStories);
       return;
     }
     
-    const filtered = latestStories.filter(story => {
+    const filtered = allStories.filter(story => {
       const storyDate = new Date(story.publishedDate);
       if (start && storyDate < start) return false;
       if (end && storyDate > end) return false;
@@ -89,29 +94,16 @@ const Index = () => {
     setFilteredStories(filtered);
   };
 
-  const loadMoreStories = async () => {
-    setIsLoadingMore(true);
-    try {
-      const nextPage = currentPage + 1;
-      const allStories = await getLatestStories(nextPage * storiesPerPage);
-      const newStories = allStories.slice(latestStories.length);
-      
-      setLatestStories(prev => [...prev, ...newStories]);
-      
-      // Apply date filter to new stories if active
-      if (startDate || endDate) {
-        handleDateFilter(startDate, endDate);
-      } else {
-        setFilteredStories(prev => [...prev, ...newStories]);
-      }
-      
-      setCurrentPage(nextPage);
-      setHasMoreStories(newStories.length === storiesPerPage);
-    } catch (error) {
-      console.error('Error loading more stories:', error);
-    } finally {
-      setIsLoadingMore(false);
-    }
+  // Calculate pagination
+  const totalStories = filteredStories.length;
+  const totalPages = Math.ceil(totalStories / storiesPerPage);
+  const startIndex = (currentPage - 1) * storiesPerPage;
+  const endIndex = startIndex + storiesPerPage;
+  const currentStories = filteredStories.slice(startIndex, endIndex);
+
+  const handlePageChange = (page: number) => {
+    setCurrentPage(page);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   return (
@@ -168,28 +160,78 @@ const Index = () => {
                 <div className="text-center py-12">
                   <p className="text-muted-foreground text-lg font-bengali">গল্প লোড হচ্ছে...</p>
                 </div>
-              ) : filteredStories.length > 0 ? (
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-                  {filteredStories.map((story) => (
-                    <StoryCard key={story.id} story={story} />
-                  ))}
-                </div>
+              ) : currentStories.length > 0 ? (
+                <>
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+                    {currentStories.map((story) => (
+                      <StoryCard key={story.id} story={story} />
+                    ))}
+                  </div>
+                  
+                  {/* Pagination */}
+                  {totalPages > 1 && (
+                    <div className="mt-8 flex justify-center">
+                      <Pagination>
+                        <PaginationContent>
+                          {currentPage > 1 && (
+                            <PaginationItem>
+                              <PaginationPrevious 
+                                href="#"
+                                onClick={(e) => {
+                                  e.preventDefault();
+                                  handlePageChange(currentPage - 1);
+                                }}
+                              />
+                            </PaginationItem>
+                          )}
+                          
+                          {Array.from({ length: Math.min(5, totalPages) }, (_, i) => {
+                            let pageNum;
+                            if (totalPages <= 5) {
+                              pageNum = i + 1;
+                            } else if (currentPage <= 3) {
+                              pageNum = i + 1;
+                            } else if (currentPage >= totalPages - 2) {
+                              pageNum = totalPages - 4 + i;
+                            } else {
+                              pageNum = currentPage - 2 + i;
+                            }
+                            
+                            return (
+                              <PaginationItem key={pageNum}>
+                                <PaginationLink
+                                  href="#"
+                                  isActive={currentPage === pageNum}
+                                  onClick={(e) => {
+                                    e.preventDefault();
+                                    handlePageChange(pageNum);
+                                  }}
+                                >
+                                  {pageNum}
+                                </PaginationLink>
+                              </PaginationItem>
+                            );
+                          })}
+                          
+                          {currentPage < totalPages && (
+                            <PaginationItem>
+                              <PaginationNext 
+                                href="#"
+                                onClick={(e) => {
+                                  e.preventDefault();
+                                  handlePageChange(currentPage + 1);
+                                }}
+                              />
+                            </PaginationItem>
+                          )}
+                        </PaginationContent>
+                      </Pagination>
+                    </div>
+                  )}
+                </>
               ) : (
                 <div className="text-center py-12">
                   <p className="text-muted-foreground text-lg font-bengali">কোনো গল্প পাওয়া যায়নি।</p>
-                </div>
-              )}
-              
-              {/* Load More Button */}
-              {!isLoading && filteredStories.length > 0 && hasMoreStories && !(startDate || endDate) && (
-                <div className="text-center mt-8">
-                  <button 
-                    onClick={loadMoreStories}
-                    disabled={isLoadingMore}
-                    className="btn-primary px-8 py-3 text-lg"
-                  >
-                    {isLoadingMore ? 'আরো গল্প লোড হচ্ছে...' : 'আরো গল্প দেখুন'}
-                  </button>
                 </div>
               )}
             </section>
