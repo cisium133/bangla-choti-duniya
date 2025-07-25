@@ -6,6 +6,7 @@ import { Footer } from '../components/Footer';
 import { StoryCard } from '../components/StoryCard';
 import { SEO } from '../components/SEO';
 import { DateFilter } from '../components/DateFilter';
+import { ScrollToTop } from '../components/ScrollToTop';
 import { getAllStories, getCategoriesWithCounts, searchStories } from '../data/stories';
 import { Story, StoryCategory } from '../types/story';
 import { Pagination, PaginationContent, PaginationItem, PaginationLink, PaginationNext, PaginationPrevious } from '@/components/ui/pagination';
@@ -271,6 +272,7 @@ const Index = () => {
         )}
       </main>
 
+      <ScrollToTop />
       <Footer />
     </div>
   );

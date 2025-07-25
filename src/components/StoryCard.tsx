@@ -67,11 +67,7 @@ export const StoryCard = ({ story }: StoryCardProps) => {
         <div className="story-meta">
           <div className="flex items-center gap-4 text-xs mb-3">
             <span className="text-muted-foreground font-bengali">
-              {new Date(story.publishedDate).toLocaleDateString('bn-BD', {
-                year: 'numeric',
-                month: 'long',
-                day: 'numeric'
-              })}
+              {story.publishedDate} • {story.author || 'Anonymous'}
             </span>
           </div>
           
