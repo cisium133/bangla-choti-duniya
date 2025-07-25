@@ -3,9 +3,8 @@ from bs4 import BeautifulSoup
 from slugify import slugify
 import os
 import sys
+import subprocess
 from datetime import datetime
-
-# ========== CONFIG ==========
 
 headers = {
     'User-Agent': 'Mozilla/5.0'
@@ -17,37 +16,81 @@ sources = [
     "https://www.banglachotikahinii.com/"
 ]
 
-MAX_PAGES = 3  # default limit
+MAX_PAGES = 3
 
 
-# ========== STORY SCRAPER ==========
+# ========= CURL IMAGE SCRAPER ==========
+
+def fetch_page_with_curl(url):
+    try:
+        result = subprocess.run(
+            [
+                "curl",
+                "-sSL",
+                "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+                "-H", "Accept-Language: en-US,en;q=0.9",
+                url
+            ],
+            capture_output=True,
+            text=True,
+            check=True
+        )
+        return result.stdout
+    except subprocess.CalledProcessError as e:
+        print(f"curl failed for {url}: {e}")
+        return None
+
+
+def extract_contenturl_srcs(html):
+    soup = BeautifulSoup(html, 'html.parser')
+    images = soup.find_all('img', itemprop='contentUrl')
+    return [img.get('src') for img in images if img.get('src')]
+
+
+def scrape_porn_images(required_count):
+    images = []
+    page = 1
+    while len(images) < required_count:
+        url = f"https://www.indianpornpics.pro/en/hot/{page}"
+        html = fetch_page_with_curl(url)
+        if html:
+            new_imgs = extract_contenturl_srcs(html)
+            images.extend(new_imgs)
+        page += 1
+    return images[:required_count]
+
+
+def parse_range(pagestr):
+    if '-' in pagestr:
+        start, end = pagestr.split('-')
+        return list(range(int(start), int(end) + 1))
+    else:
+        return [int(pagestr)]
+
+
+# ========= STORY SCRAPER ==========
 
 def scrape_story(url):
     try:
         r = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(r.text, 'html.parser')
 
-        # Title
         title_tag = soup.select_one('h1.entry-title') or soup.select_one('h2.entry-title')
         title = title_tag.text.strip() if title_tag else 'No Title'
 
-        # Content
         content_tag = soup.select_one('div.entry-content') or soup.select_one('div.td-post-content')
         content = content_tag.get_text(separator="\n").strip() if content_tag else ''
 
-        # Date
         date_tag = soup.select_one('time.entry-date')
         date_str = date_tag.get('datetime') if date_tag else datetime.now().strftime("%Y-%m-%d")
         try:
-            formatted_date = datetime.strptime(date_str[:10], "%Y-%m-%d").strftime("%d/%m/%Y")
+            formatted_date = datetime.strptime(date_str[:6], "%Y-%m-%d").strftime("%d/%m/%Y")
         except:
             formatted_date = datetime.now().strftime("%d/%m/%Y")
 
-        # Category
         cat_tag = soup.find('a', rel='category tag')
         category = cat_tag.text.strip() if cat_tag else "Uncategorized"
 
-        # Tags
         tags = [tag.text.strip() for tag in soup.find_all('a', rel='tag')]
         tags_string = ", ".join(tags) if tags else "বাংলা,গল্প"
 
@@ -65,8 +108,6 @@ def scrape_story(url):
         return None
 
 
-# ========== STORY SAVER ==========
-
 def save_story(story):
     if not story or not story["title"]:
         print("⚠️ No story data to save.")
@@ -78,7 +119,7 @@ def save_story(story):
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
 
     excerpt = story["content"][:200].replace("\n", " ").replace('"', "'")
-    image_url = "https://placehold.co/600x400"  # Placeholder
+    image_url = "https://placehold.co/600x400"
 
     md = f"""---
 title: "{story['title']}"
@@ -98,8 +139,6 @@ excerpt: "{excerpt}..."
     print(f"✅ Saved: {filepath}")
 
 
-# ========== STORY LIST SCRAPER ==========
-
 def scrape_listing_page(source, page=1):
     try:
         if "banglachotikahinii" in source:
@@ -117,12 +156,8 @@ def scrape_listing_page(source, page=1):
         return []
 
 
-# ========== ENTRY POINT ==========
-
 def main():
     args = sys.argv[1:]
-
-    # From Telegram or Not
     from_telegram = args[0] == "telegram" if args else False
     base_url = args[1] if from_telegram else None
     page = int(args[2] if from_telegram else args[0] if args else 1)
