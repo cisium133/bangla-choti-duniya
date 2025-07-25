@@ -110,11 +110,13 @@ async function createStoriesFromMarkdown(): Promise<Story[]> {
           author: stripHtml(metadata.author || 'অজানা'),
           publishedDate: metadata.publishedDate || '2024-01-01',
           category: metadata.category || 'unknown',
-          tags: metadata.tags || ['বাংলা', 'গল্প'],
+          tags: Array.isArray(metadata.tags) ? metadata.tags : ['বাংলা', 'গল্প'],
           imageUrl: metadata.imageUrl || 'https://source.unsplash.com/800x600/?bangladesh',
           views: getViewCount(filename),
           featured: metadata.featured || false
         };
+        
+        console.log(`Story parsed:`, { title: story.title, tags: story.tags, isArray: Array.isArray(story.tags) });
         
         stories.push(story);
         console.log(`Loaded story: ${story.title}`);

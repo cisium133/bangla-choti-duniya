@@ -89,12 +89,26 @@ export const StoryCard = ({ story }: StoryCardProps) => {
         </div>
         
         <div className="flex flex-wrap gap-1 mt-3">
-          {Array.isArray(story.tags) && story.tags.slice(0, 3).map((tag) => (
-            <span key={tag} className="inline-flex items-center gap-1 text-xs text-muted-foreground">
-              <Tag className="w-3 h-3" />
-              {tag}
-            </span>
-          ))}
+          {(() => {
+            console.log('Story tags debug:', { 
+              tags: story.tags, 
+              isArray: Array.isArray(story.tags), 
+              type: typeof story.tags,
+              title: story.title 
+            });
+            
+            // Ensure tags is always an array
+            const tagsArray = Array.isArray(story.tags) ? story.tags : 
+                             typeof story.tags === 'string' ? [story.tags] : 
+                             [];
+            
+            return tagsArray.slice(0, 3).map((tag) => (
+              <span key={tag} className="inline-flex items-center gap-1 text-xs text-muted-foreground">
+                <Tag className="w-3 h-3" />
+                {tag}
+              </span>
+            ));
+          })()}
         </div>
       </div>
     </article>
