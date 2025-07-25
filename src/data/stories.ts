@@ -2,13 +2,13 @@ import { Story, StoryCategory } from '../types/story';
 import { getViewCount, initializeViewCounts } from '../utils/viewTracker';
 
 export const categories: StoryCategory[] = [
+  { id: 'adult', name: 'প্রাপ্তবয়স্ক', description: 'প্রাপ্তবয়স্কদের গল্প', count: 25 },
   { id: 'romance', name: 'প্রেমের গল্প', description: 'হৃদয়স্পর্শী প্রেমের কাহিনী', count: 15 },
   { id: 'adventure', name: 'রোমাঞ্চ', description: 'দুঃসাহসিক অভিযানের গল্প', count: 12 },
-  { id: 'mystery', name: 'রহস্য', description: 'রহস্যময় ও রোমাঞ্চকর কাহিনী', count: 8 },
   { id: 'social', name: 'সামাজিক', description: 'সমাজের নানা সমস্যার গল্প', count: 10 },
-  { id: 'historical', name: 'ঐতিহাসিক', description: 'ইতিহাসভিত্তিক কাহিনী', count: 6 },
   { id: 'fantasy', name: 'কল্পকাহিনী', description: 'কল্পনার জগতের গল্প', count: 9 },
-  { id: 'adult', name: 'প্রাপ্তবয়স্ক', description: 'প্রাপ্তবয়স্কদের গল্প', count: 25 },
+  { id: 'mystery', name: 'রহস্য', description: 'রহস্যময় ও রোমাঞ্চকর কাহিনী', count: 8 },
+  { id: 'historical', name: 'ঐতিহাসিক', description: 'ইতিহাসভিত্তিক কাহিনী', count: 6 },
   { id: 'unknown', name: 'অন্যান্য', description: 'বিভিন্ন ধরনের গল্প', count: 50 }
 ];
 

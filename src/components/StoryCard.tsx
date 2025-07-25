@@ -76,6 +76,9 @@ export const StoryCard = ({ story }: StoryCardProps) => {
               <Eye className="w-3 h-3" />
               <span>{story.views} বার দেখা হয়েছে</span>
             </div>
+            <div className="flex items-center gap-1">
+              <span>প্রকাশ: {new Date(story.publishedDate).toLocaleDateString('bn-BD')}</span>
+            </div>
           </div>
           
           <Link 
