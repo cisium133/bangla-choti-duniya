@@ -89,7 +89,7 @@ export const StoryCard = ({ story }: StoryCardProps) => {
         </div>
         
         <div className="flex flex-wrap gap-1 mt-3">
-          {story.tags.slice(0, 3).map((tag) => (
+          {Array.isArray(story.tags) && story.tags.slice(0, 3).map((tag) => (
             <span key={tag} className="inline-flex items-center gap-1 text-xs text-muted-foreground">
               <Tag className="w-3 h-3" />
               {tag}
