@@ -157,7 +157,15 @@ export async function getFeaturedStories(): Promise<Story[]> {
 
 export async function getStoriesByCategory(categoryId: string): Promise<Story[]> {
   const stories = await storiesPromise;
-  return stories.filter(story => story.category === categoryId);
+  
+  // Convert URL-safe category ID back to category name
+  const categoryName = categoryId.replace(/-/g, ' ');
+  
+  return stories.filter(story => 
+    story.category === categoryId || 
+    story.category.toLowerCase() === categoryName.toLowerCase() ||
+    story.category.toLowerCase().replace(/\s+/g, '-') === categoryId
+  );
 }
 
 export async function searchStories(query: string): Promise<Story[]> {

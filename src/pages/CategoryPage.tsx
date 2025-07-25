@@ -4,62 +4,52 @@ import { BookOpen, Filter } from 'lucide-react';
 import { Navbar } from '../components/Navbar';
 import { Footer } from '../components/Footer';
 import { StoryCard } from '../components/StoryCard';
-import { getStoriesByCategory, categories } from '../data/stories';
-import { Story } from '../types/story';
+import { ScrollToTop } from '../components/ScrollToTop';
+import { getStoriesByCategory, getCategoriesWithCounts } from '../data/stories';
+import { Story, StoryCategory } from '../types/story';
 
 const CategoryPage = () => {
   const { categoryId } = useParams<{ categoryId: string }>();
   const [stories, setStories] = useState<Story[]>([]);
-  const [category, setCategory] = useState(categories.find(cat => cat.id === categoryId));
-  const [currentPage, setCurrentPage] = useState(1);
-  const [hasMoreStories, setHasMoreStories] = useState(true);
-  const [isLoadingMore, setIsLoadingMore] = useState(false);
+  const [category, setCategory] = useState<StoryCategory | undefined>();
+  const [allCategories, setAllCategories] = useState<StoryCategory[]>([]);
   const [isLoading, setIsLoading] = useState(true);
   const storiesPerPage = 12;
 
   useEffect(() => {
-    const loadCategoryStories = async () => {
+    const loadCategoryData = async () => {
       if (categoryId) {
         try {
-          const categoryStories = await getStoriesByCategory(categoryId);
-          const firstBatch = categoryStories.slice(0, storiesPerPage);
-          setStories(firstBatch);
-          setHasMoreStories(categoryStories.length > storiesPerPage);
+          const [categoriesData, categoryStories] = await Promise.all([
+            getCategoriesWithCounts(),
+            getStoriesByCategory(categoryId)
+          ]);
           
-          const foundCategory = categories.find(cat => cat.id === categoryId);
-          setCategory(foundCategory);
+          setAllCategories(categoriesData);
           
-          // Update document title
+          // Find category by ID (convert back from URL-safe format)
+          const categoryName = categoryId.replace(/-/g, ' ');
+          const foundCategory = categoriesData.find(cat => 
+            cat.id === categoryId || cat.name.toLowerCase() === categoryName.toLowerCase()
+          );
+          
           if (foundCategory) {
+            setCategory(foundCategory);
+            setStories(categoryStories);
             document.title = `${foundCategory.name} - গল্পের জগৎ`;
+          } else {
+            console.error('Category not found:', categoryId);
           }
         } catch (error) {
-          console.error('Error loading category stories:', error);
+          console.error('Error loading category data:', error);
         } finally {
           setIsLoading(false);
         }
       }
     };
 
-    loadCategoryStories();
+    loadCategoryData();
   }, [categoryId]);
-
-  const loadMoreStories = async () => {
-    if (!categoryId) return;
-    
-    setIsLoadingMore(true);
-    try {
-      const allCategoryStories = await getStoriesByCategory(categoryId);
-      const nextBatch = allCategoryStories.slice(stories.length, stories.length + storiesPerPage);
-      
-      setStories(prev => [...prev, ...nextBatch]);
-      setHasMoreStories(stories.length + nextBatch.length < allCategoryStories.length);
-    } catch (error) {
-      console.error('Error loading more stories:', error);
-    } finally {
-      setIsLoadingMore(false);
-    }
-  };
 
   const handleSearch = (query: string) => {
     console.log('Search:', query);
@@ -123,19 +113,6 @@ const CategoryPage = () => {
                   <StoryCard key={story.id} story={story} />
                 ))}
               </div>
-              
-              {/* Load More Button */}
-              {hasMoreStories && (
-                <div className="text-center mt-8">
-                  <button 
-                    onClick={loadMoreStories}
-                    disabled={isLoadingMore}
-                    className="btn-primary px-8 py-3 text-lg"
-                  >
-                    {isLoadingMore ? 'আরো গল্প লোড হচ্ছে...' : 'আরো গল্প দেখুন'}
-                  </button>
-                </div>
-              )}
             </>
           ) : (
             <div className="text-center py-16">
@@ -153,6 +130,7 @@ const CategoryPage = () => {
         </section>
       </div>
 
+      <ScrollToTop />
       <Footer />
     </div>
   );
