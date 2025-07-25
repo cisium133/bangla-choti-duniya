@@ -30,7 +30,7 @@ export const Navbar = ({ onSearch }: NavbarProps) => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 text-xl font-bold text-primary font-bengali-title">
             <BookOpen className="w-6 h-6" />
-            গল্পের জগৎ
+            চটি দুনিয়া
           </Link>
 
           {/* Centered Search */}
