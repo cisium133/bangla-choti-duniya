@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@300;400;500;600;700&family=Kalpurush:wght@400;500;600;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -239,5 +240,52 @@ All colors MUST be HSL.
     @apply p-3 rounded-full border border-border text-muted-foreground
            hover:text-primary hover:border-primary hover:bg-primary/5
            transition-[var(--transition-smooth)];
+  }
+  }
+
+  /* Story content typography improvements */
+  .story-content {
+    @apply text-lg leading-[1.9] text-foreground;
+    text-align: justify;
+    hyphens: auto;
+    word-spacing: 0.1em;
+    letter-spacing: 0.02em;
+  }
+
+  .story-content p {
+    @apply mb-8 indent-8;
+    text-indent: 2rem;
+  }
+
+  .story-content p:first-of-type {
+    @apply first-letter:text-5xl first-letter:font-bold first-letter:text-primary 
+           first-letter:float-left first-letter:leading-none first-letter:mr-2 
+           first-letter:mt-2 first-letter:mb-1;
+  }
+
+  /* Enhanced readability for Bengali text */
+  .story-content p::first-line {
+    line-height: 1.6;
+  }
+
+  /* Add subtle text shadow for better readability */
+  .story-content {
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.02);
+  }
+
+  /* Responsive typography */
+  @media (max-width: 768px) {
+    .story-content {
+      @apply text-base leading-[1.8];
+      text-indent: 1rem;
+    }
+    
+    .story-content p {
+      @apply mb-6 indent-4;
+    }
+
+    .story-content p:first-of-type {
+      @apply first-letter:text-4xl;
+    }
   }
 }

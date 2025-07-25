@@ -3,6 +3,7 @@ import { ArrowLeft, Calendar, Eye, User, Tag, Share2, Facebook, Twitter, Heart, 
 import { Navbar } from '../components/Navbar';
 import { Footer } from '../components/Footer';
 import { StoryCard } from '../components/StoryCard';
+import { ScrollToTop } from '../components/ScrollToTop';
 import { getStoryById, getRelatedStories } from '../data/stories';
 import { incrementViewCount } from '../utils/viewTracker';
 import { useEffect, useState } from 'react';
@@ -35,10 +36,51 @@ const StoryDetail = () => {
             // SEO: Update document title and meta
             document.title = `${foundStory.title} - গল্পের জগৎ`;
             
-            // Update meta description
+            // Update meta tags for better sharing
             const metaDescription = document.querySelector('meta[name="description"]');
             if (metaDescription) {
               metaDescription.setAttribute('content', foundStory.excerpt);
+            }
+            
+            // Add Open Graph meta tags for better social sharing
+            const existingOgTitle = document.querySelector('meta[property="og:title"]');
+            if (existingOgTitle) {
+              existingOgTitle.setAttribute('content', foundStory.title);
+            } else {
+              const ogTitle = document.createElement('meta');
+              ogTitle.setAttribute('property', 'og:title');
+              ogTitle.setAttribute('content', foundStory.title);
+              document.head.appendChild(ogTitle);
+            }
+            
+            const existingOgDescription = document.querySelector('meta[property="og:description"]');
+            if (existingOgDescription) {
+              existingOgDescription.setAttribute('content', foundStory.excerpt);
+            } else {
+              const ogDescription = document.createElement('meta');
+              ogDescription.setAttribute('property', 'og:description');
+              ogDescription.setAttribute('content', foundStory.excerpt);
+              document.head.appendChild(ogDescription);
+            }
+            
+            const existingOgImage = document.querySelector('meta[property="og:image"]');
+            if (existingOgImage) {
+              existingOgImage.setAttribute('content', foundStory.imageUrl);
+            } else {
+              const ogImage = document.createElement('meta');
+              ogImage.setAttribute('property', 'og:image');
+              ogImage.setAttribute('content', foundStory.imageUrl);
+              document.head.appendChild(ogImage);
+            }
+            
+            const existingOgUrl = document.querySelector('meta[property="og:url"]');
+            if (existingOgUrl) {
+              existingOgUrl.setAttribute('content', window.location.href);
+            } else {
+              const ogUrl = document.createElement('meta');
+              ogUrl.setAttribute('property', 'og:url');
+              ogUrl.setAttribute('content', window.location.href);
+              document.head.appendChild(ogUrl);
             }
           }
         } catch (error) {
@@ -129,10 +171,6 @@ const StoryDetail = () => {
               প্রচ্ছদ
             </Link>
             <span className="text-muted-foreground">/</span>
-            <Link to="/categories" className="text-muted-foreground hover:text-primary transition-[var(--transition-smooth)]">
-              বিভাগসমূহ
-            </Link>
-            <span className="text-muted-foreground">/</span>
             <span className="text-foreground">{story.title}</span>
           </nav>
         </div>
@@ -185,7 +223,7 @@ const StoryDetail = () => {
               )}
               <div className="flex items-center gap-2">
                 <Calendar className="w-4 h-4" />
-                <span>{new Date(story.publishedDate).toLocaleDateString('bn-BD')}</span>
+                <span>{story.publishedDate} • {story.author || 'Anonymous'}</span>
               </div>
               <div className="flex items-center gap-2">
                 <Eye className="w-4 h-4" />
@@ -242,15 +280,15 @@ const StoryDetail = () => {
           </header>
 
           {/* Story Content */}
-          <div className="prose prose-lg max-w-none font-bengali">
-            <div className="text-foreground leading-relaxed text-lg">
-              {story.content.split('\n').map((line, index) => {
-                if (line.trim() === '') {
-                  return <br key={index} />;
+          <div className="prose prose-lg max-w-none">
+            <div className="text-foreground font-bengali story-content">
+              {story.content.split('\n\n').map((paragraph, index) => {
+                if (paragraph.trim() === '') {
+                  return null;
                 }
                 return (
-                  <p key={index} className="mb-4 text-justify">
-                    {line}
+                  <p key={index} className="mb-6 text-lg leading-[1.8] text-justify indent-8 first-letter:text-2xl first-letter:font-bold first-letter:text-primary">
+                    {paragraph.trim()}
                   </p>
                 );
               })}
@@ -289,6 +327,7 @@ const StoryDetail = () => {
         </section>
       )}
 
+      <ScrollToTop />
       <Footer />
     </div>
   );
