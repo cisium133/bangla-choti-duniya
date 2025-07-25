@@ -72,27 +72,65 @@ def parse_range(pagestr):
 
 # ========= STORY SCRAPER ==========
 
+# Global image pool to ensure each story gets a unique image
+IMAGE_POOL = []
+USED_IMAGES = set()
+
+def get_image_pool(required_count):
+    """Get a pool of images to use for stories"""
+    global IMAGE_POOL
+    if len(IMAGE_POOL) < required_count:
+        print(f"🖼️ Fetching {required_count} images for stories...")
+        IMAGE_POOL = scrape_porn_images(required_count)
+        print(f"✅ Loaded {len(IMAGE_POOL)} images into pool")
+    return IMAGE_POOL
+
+def get_next_image():
+    """Get the next available image from the pool"""
+    global IMAGE_POOL, USED_IMAGES
+    
+    # Find an unused image
+    for img in IMAGE_POOL:
+        if img not in USED_IMAGES:
+            USED_IMAGES.add(img)
+            return img
+    
+    # If all images are used, reset and start over
+    if IMAGE_POOL:
+        USED_IMAGES.clear()
+        USED_IMAGES.add(IMAGE_POOL[0])
+        return IMAGE_POOL[0]
+    
+    # Fallback if no images available
+    return "https://placehold.co/600x400"
+
 def extract_image_from_story(soup, base_url):
-    """Extract the main image from the story content"""
+    """Extract the main image from the story content, with fallback to image pool"""
     # Try to find featured image
     featured_img = soup.select_one('img.wp-post-image') or soup.select_one('img.attachment-thumbnail')
     if featured_img and featured_img.get('src'):
-        return urljoin(base_url, featured_img['src'])
+        img_url = urljoin(base_url, featured_img['src'])
+        if img_url and img_url != base_url:  # Ensure it's a valid image URL
+            return img_url
     
     # Try to find first image in content
     content_imgs = soup.select('div.entry-content img, div.td-post-content img')
     for img in content_imgs:
         src = img.get('src') or img.get('data-src')
         if src:
-            return urljoin(base_url, src)
+            img_url = urljoin(base_url, src)
+            if img_url and img_url != base_url:
+                return img_url
     
     # Try meta og:image
     og_image = soup.select_one('meta[property="og:image"]')
     if og_image and og_image.get('content'):
-        return urljoin(base_url, og_image['content'])
+        img_url = urljoin(base_url, og_image['content'])
+        if img_url and img_url != base_url:
+            return img_url
     
-    # Fallback to placeholder
-    return "https://placehold.co/600x400"
+    # Fallback to image from pool
+    return get_next_image()
 
 
 def normalize_url(url, base_url):
@@ -330,22 +368,34 @@ def main():
 
     sources_to_use = [base_url] if from_telegram and base_url else sources
 
+    # First, count total stories we'll process to pre-load images
+    total_stories = 0
+    all_story_links = []
+    
     for src in sources_to_use:
-        print(f"\n🌐 Source: {src} | Page: {page}")
+        print(f"\n🔍 Scanning source: {src} | Page: {page}")
         story_links = scrape_listing_page(src, page)
-
-        if not story_links:
-            print("⚠️ No stories found.")
-            continue
-
-        print(f"📚 Processing {len(story_links)} stories...")
-        for i, story_url in enumerate(story_links, 1):
-            print(f"[{i}/{len(story_links)}] Processing: {story_url}")
-            story = scrape_story(story_url)
-            if story:
-                save_story(story)
-            else:
-                print(f"⚠️ Failed to scrape story from {story_url}")
+        if story_links:
+            all_story_links.extend([(src, link) for link in story_links])
+            total_stories += len(story_links)
+    
+    if total_stories == 0:
+        print("⚠️ No stories found across all sources.")
+        return
+    
+    # Pre-load image pool for all stories
+    print(f"\n📊 Found {total_stories} total stories")
+    get_image_pool(total_stories + 5)  # Extra buffer
+    
+    # Process all stories
+    for src, story_url in all_story_links:
+        print(f"\n🌐 Source: {src}")
+        print(f"📖 Processing: {story_url}")
+        story = scrape_story(story_url)
+        if story:
+            save_story(story)
+        else:
+            print(f"⚠️ Failed to scrape story from {story_url}")
 
 
 if __name__ == "__main__":
