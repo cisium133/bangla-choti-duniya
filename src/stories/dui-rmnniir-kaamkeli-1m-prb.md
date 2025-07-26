@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "18/07/2025"
 category: "সমকামী"
 tags: ["ইরোটিক চটি", "গৃহবধূ", "গ্রুপসেক্স", "যুবতী", "লেসবিয়ান"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/31/020_spreads.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/22/469_an.jpg"
 excerpt: "রুমেলা, মানে রুমিদির সাথে আমার প্রথম পরিচয় মিলুর সাথে একটা পার্টিতে গিয়ে। ওর অফিসের ফ্যামিলি পার্টি, মানে বউকে নিয়ে যাওয়া যায়। এই ধরণের অনুষ্ঠানে আমি আগেও গেছি, তবে আগে কোনদিন রুমিদিকে দেখিনি। মি..."
 ---
 
