@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "14/07/2025"
 category: "গ্রুপ সেক্সের বাংলা চটি গল্প"
 tags: ["তরুণ বয়স্ক", "বাংলা পানু গল্প", "মা ও ছেলের চোদন কাহিনী"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/34/944_intercourse.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/17/105_teen_posing_camera.jpg"
 excerpt: "ঋষির সামনে বসে আছে টিনা—নীরব, চোখে জল, ঠোঁটে কাপুনি। সে থেমে থেমে সব বলে—  রতি চৌধুরী, নীল, ভিডিও, ব্ল্যাকমেল… আর সেই নির্যাতনের প্রতিটি স্তর।   ঋষি চুপ করে শুনছে। তার মুখে কোনও বিরক্তি নেই, নেই অবিশ্..."
 ---
 

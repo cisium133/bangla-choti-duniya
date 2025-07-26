@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "13/07/2025"
 category: "পরিপক্ব চোদাচুদির গল্প"
 tags: ["পরকিয়া চুদাচুদির গল্প", "পরিপক্ক চুদাচুদির গল্প", "বাংলা সেক্স স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/0/253_their_naked.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/39/296_Big.jpg"
 excerpt: "This story is part of the  বেয়াইনদিদিমণির পেটিকোট series             বেয়াইনদিদিমণির পেটিকোট- পর্ব ২   অনেকদিন পর, বলতে গেলে , দশ থেকে বারো বছর পর , আজ এক রকম অপ্রত্যাশিত-ভাবে ৫৪ বছর বয়সী সুন্দরী বিধবা..."
 ---
 

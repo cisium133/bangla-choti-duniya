@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "16/07/2025"
 category: "পরিপক্ব চোদাচুদির গল্প"
 tags: ["পরকিয়া চুদাচুদির গল্প", "পরিপক্ক চুদাচুদির গল্প", "পোঁদ মারার গল্প", "বেঙ্গলি সেক্স চটি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/0/228_Horny_Indian.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/21/527_verandah.jpg"
 excerpt: "কিভাবে দিচ্ছেগো ছেলেটা…….ইশশশ….পারছিস কিভাবে হামানদিস্তাটা নিতে?? এমন বেটার কাছে মেয়েকে তুলে দিতে পারলে শান্তিতে মরতে পারতাম। সে ভাগ্য কি আর হবে তোর মুখপুড়ি হতভাগীর??? আমি শুনে মোহিনের দিকে তাকিয়ে রইল..."
 ---
 
