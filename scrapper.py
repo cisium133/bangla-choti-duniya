@@ -18,7 +18,7 @@ sources = [
     "https://www.banglachotikahinii.com/"
 ]
 
-MAX_PAGES = 100
+MAX_PAGES = 100  # Increased limit to allow more pages
 
 
 # ========= CURL IMAGE SCRAPER ==========
@@ -409,9 +409,15 @@ def main():
     base_url = args[1] if from_telegram else None
     page = int(args[2] if from_telegram else args[0] if args else 1)
 
+    # More flexible page limit handling
     if page > MAX_PAGES:
-        print(f"⚠️ Page {page} exceeds limit of {MAX_PAGES}. Skipping.")
-        return
+        print(f"⚠️ Page {page} exceeds limit of {MAX_PAGES}.")
+        user_input = input(f"Do you want to proceed anyway? (y/n): ").lower().strip()
+        if user_input != 'y' and user_input != 'yes':
+            print("Operation cancelled.")
+            return
+        else:
+            print(f"✅ Proceeding with page {page}...")
 
     sources_to_use = [base_url] if from_telegram and base_url else sources
 
