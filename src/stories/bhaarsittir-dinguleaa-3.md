@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "15/07/2025"
 category: "বান্ধবী চোদার বাংলা চটি গল্প"
 tags: ["প্রথমবার চোদার গল্প", "বান্ধবী চোদার গল্প", "বেঙ্গলি পর্ন স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/21/374_nasty_sex.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/39/097_Comics_Heart.jpg"
 excerpt: "আগের পর্ব   নুসরাত আমাকে অনেকগুলো ছবি দিলো। ছবিগুলো আমি দেখে অবাক হলাম, দেখলাম নেলির সাথে দুইটা ছেলের ছবি। আলাদা আলাদা দুটো ছেলে। ছেলেগুলোর সাথে খুব ক্লোজভাবে নেলি দাঁড়ানো,নেলির কাঁধে হাত দিয়ে ছবিগু..."
 ---
 

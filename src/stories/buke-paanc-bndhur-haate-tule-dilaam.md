@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "13/07/2025"
 category: "গ্রুপ সেক্সের বাংলা চটি গল্প"
 tags: ["অর্গি সেক্স", "কাকওল্ড সেক্স", "বন্ধুর বৌকে চোদার গল্প", "বাংলা সেক্স স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/5/701_Exciting_hindu_s.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/13/747_amateur.jpg"
 excerpt: "আমার নাম নাবিল আমার বয়স ২৩ বছর। আমার বউয়ের নাম তাহিয়া। আমার বউয়ের বয়স ২০ বছর। আমি কিছুটা অল্প বয়সেই বিয়ে করেছি। আমার বউ দেখতে সুন্দর অল্প বয়সী। মাত্র বাচ্চা সন্তান হয়েছে।তবে আমার বউকে দেখলে ব..."
 ---
 

@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "07/07/2025"
 category: "নতুন চটি গল্প"
 tags: ["ইরোটিক চটি", "গৃহবধূ", "গ্রুপসেক্স", "নতুন চটি গল্প", "যুবতী"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/0/228_Horny_Indian.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/29/582_by_6.jpg"
 excerpt: "আমাদের ভেতরের বরফটা গলে গেলে আপুর আর কোন সঙ্কোচ রইল না। সৃষ্টির প্রথম থেকেই অবৈধ জিনিষে বা সর্ম্পকে মানুষের প্রচণ্ড আকর্ষণ থাকে। সাময়িকভাবে স্বামী অদল-বদল করাটাও অবৈধ। আমাদের দুইবোনরেই এই স্বামী অদল-ব..."
 ---
 
