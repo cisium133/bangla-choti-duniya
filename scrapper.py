@@ -50,16 +50,62 @@ def extract_contenturl_srcs(html):
 
 
 def scrape_porn_images(required_count):
-    images = []
+    images = set()  # Use set to avoid duplicates
     page = 1
-    while len(images) < required_count:
+    max_pages = 50  # Prevent infinite loop
+    
+    print(f"🔍 Scraping unique images (need {required_count})...")
+    
+    while len(images) < required_count and page <= max_pages:
         url = f"https://www.indianpornpics.pro/en/hot/{page}"
+        print(f"  📄 Checking page {page}... (found {len(images)} unique images)")
+        
         html = fetch_page_with_curl(url)
         if html:
             new_imgs = extract_contenturl_srcs(html)
-            images.extend(new_imgs)
+            if new_imgs:
+                # Add only new unique images
+                before_count = len(images)
+                for img in new_imgs:
+                    if img and img.startswith(('http://', 'https://')):
+                        images.add(img)
+                print(f"    ➕ Added {len(images) - before_count} new unique images")
+            else:
+                print(f"    ⚠️ No images found on page {page}")
+        else:
+            print(f"    ❌ Failed to fetch page {page}")
+        
         page += 1
-    return images[:required_count]
+        
+        # If we haven't found new images in several pages, try different sources
+        if page > 10 and len(images) < required_count // 2:
+            print("  🔄 Trying additional image sources...")
+            # Try different category pages
+            for category in ['amateur', 'indian', 'asian', 'girls']:
+                cat_url = f"https://www.indianpornpics.pro/en/{category}/{page}"
+                html = fetch_page_with_curl(cat_url)
+                if html:
+                    new_imgs = extract_contenturl_srcs(html)
+                    for img in new_imgs:
+                        if img and img.startswith(('http://', 'https://')):
+                            images.add(img)
+                if len(images) >= required_count:
+                    break
+    
+    unique_images = list(images)
+    print(f"✅ Collected {len(unique_images)} unique images")
+    
+    # If we still don't have enough, generate some placeholder variations
+    if len(unique_images) < required_count:
+        print(f"⚠️ Only found {len(unique_images)} unique images, adding placeholder variations...")
+        for i in range(len(unique_images), required_count):
+            # Create unique placeholder URLs with different dimensions/colors
+            width = 600 + (i % 5) * 50  # 600, 650, 700, 750, 800
+            height = 400 + (i % 4) * 50  # 400, 450, 500, 550
+            color = ['FF6B6B', '4ECDC4', '45B7D1', 'FFA07A', '98D8C8'][i % 5]
+            unique_images.append(f"https://placehold.co/{width}x{height}/{color}/FFFFFF")
+    
+    return unique_images[:required_count]
 
 
 def parse_range(pagestr):
@@ -74,35 +120,36 @@ def parse_range(pagestr):
 
 # Global image pool to ensure each story gets a unique image
 IMAGE_POOL = []
-USED_IMAGES = set()
+IMAGE_INDEX = 0
 
 def get_image_pool(required_count):
-    """Get a pool of images to use for stories"""
+    """Get a pool of unique images to use for stories"""
     global IMAGE_POOL
     if len(IMAGE_POOL) < required_count:
-        print(f"🖼️ Fetching {required_count} images for stories...")
+        print(f"🖼️ Need {required_count} unique images for stories...")
         IMAGE_POOL = scrape_porn_images(required_count)
-        print(f"✅ Loaded {len(IMAGE_POOL)} images into pool")
+        # Shuffle the images to add randomness
+        import random
+        random.shuffle(IMAGE_POOL)
+        print(f"✅ Loaded and shuffled {len(IMAGE_POOL)} unique images")
     return IMAGE_POOL
 
 def get_next_image():
-    """Get the next available image from the pool"""
-    global IMAGE_POOL, USED_IMAGES
+    """Get the next unique image from the pool"""
+    global IMAGE_POOL, IMAGE_INDEX
     
-    # Find an unused image
-    for img in IMAGE_POOL:
-        if img not in USED_IMAGES:
-            USED_IMAGES.add(img)
-            return img
+    if not IMAGE_POOL:
+        return "https://placehold.co/600x400"
     
-    # If all images are used, reset and start over
-    if IMAGE_POOL:
-        USED_IMAGES.clear()
-        USED_IMAGES.add(IMAGE_POOL[0])
-        return IMAGE_POOL[0]
+    if IMAGE_INDEX >= len(IMAGE_POOL):
+        print("⚠️ Ran out of unique images, cycling back (this shouldn't happen)")
+        IMAGE_INDEX = 0
     
-    # Fallback if no images available
-    return "https://placehold.co/600x400"
+    image = IMAGE_POOL[IMAGE_INDEX]
+    IMAGE_INDEX += 1
+    
+    print(f"  🖼️ Assigned image {IMAGE_INDEX}/{len(IMAGE_POOL)}: {image[:50]}...")
+    return image
 
 def extract_image_from_story(soup, base_url):
     """Extract the main image from the story content, with fallback to image pool"""
@@ -383,19 +430,23 @@ def main():
         print("⚠️ No stories found across all sources.")
         return
     
-    # Pre-load image pool for all stories
+    # Pre-load image pool with exact number needed (no extras to avoid confusion)
     print(f"\n📊 Found {total_stories} total stories")
-    get_image_pool(total_stories + 5)  # Extra buffer
+    get_image_pool(total_stories)
     
     # Process all stories
+    story_count = 0
     for src, story_url in all_story_links:
-        print(f"\n🌐 Source: {src}")
-        print(f"📖 Processing: {story_url}")
+        story_count += 1
+        print(f"\n📖 [{story_count}/{total_stories}] Processing: {story_url}")
+        print(f"🌐 Source: {src}")
         story = scrape_story(story_url)
         if story:
             save_story(story)
         else:
             print(f"⚠️ Failed to scrape story from {story_url}")
+    
+    print(f"\n🎉 Finished processing {story_count} stories with unique images!")
 
 
 if __name__ == "__main__":
