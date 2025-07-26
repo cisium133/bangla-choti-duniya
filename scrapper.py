@@ -18,7 +18,7 @@ sources = [
     "https://www.banglachotikahinii.com/"
 ]
 
-MAX_PAGES = 3
+MAX_PAGES = 100
 
 
 # ========= CURL IMAGE SCRAPER ==========
