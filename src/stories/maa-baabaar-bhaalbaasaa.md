@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "15/07/2025"
 category: "স্বামী স্ত্রীর বাংলা চটি গল্প"
 tags: ["পরিপক্ক চুদাচুদির গল্প", "পারিবারিক সেক্স", "বাংলা সেক্স স্টোরি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/27/149_Real.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/30/746_Indian_posing_naked.jpg"
 excerpt: "এই গল্প বহুদিন আগের। দুপুরে ভাত খেয়ে ঘুমাবো বলে মায়ের সঙ্গে শুয়েছি। আমার বাবার দোকান ছিল পাড়ায়। দুপুরে দোকান বন্ধ করে এসে বাবাও আমাদের সঙ্গেই খেয়ে দেয়ে ঘুমাতো। সেদিন বৃষ্টি হচ্ছিল সারাদিন। দুপু..."
 ---
 

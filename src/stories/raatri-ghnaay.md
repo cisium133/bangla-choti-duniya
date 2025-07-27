@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "12/07/2025"
 category: "সেরা চটি"
 tags: ["ইরোটিক চটি", "গৃহবধূ", "পরকীয়া", "পাছাচোদা", "যুবতী", "সেরা চটি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/38/277_hot_with.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/36/367_all_and.jpg"
 excerpt: "যে গল্পটা আজ আমি এখানে বলতে চলেছি, সেটা আসলে কোনো গল্পই নয়। আমার জীবনে ঘটে যাওয়া একটা রাত। সেই রাতে একটা ঘর ছিল। কিছুটা আলো ছিল। আর বাকীটা অন্ধকার ছিল। অখণ্ড নিস্তব্ধতা ছিল। শাঁখা-পলা-চুড়ির মিলিত ম..."
 ---
 
