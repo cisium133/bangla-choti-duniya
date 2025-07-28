@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "16/07/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["দিদি ভাই সেক্স", "পারিবারিক সেক্স", "বেঙ্গলি পর্ন স্টোরি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/0/296_Exotic.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/4/630_Priya.jpg"
 excerpt: "আমি রাহাত।   ঢাকার বসুন্ধরায় থাকি একমাত্র আপুর সাথে। আমার ও আপুর জীবনে আমরা ছাড়া আর কেও নেই। আমরাই দুজন দুজনের সবকিছু। বাবা ছোট থাকতে মারা যায় আর মা করোনায়। তখন থেকে আপুই আমার সবকিছু। আমার চাওয়া পাওয়া..."
 ---
 

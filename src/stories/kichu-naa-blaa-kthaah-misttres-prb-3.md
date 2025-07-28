@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "15/07/2025"
 category: "ফেমডম বাংলা চটি গল্প"
 tags: ["বিডিএসএম সেক্স স্টোরিস", "বেঙ্গলি পর্ন স্টোরি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/32/973_asian.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/18/300_indian.jpg"
 excerpt: "আগের পর্ব  ***  আমি এখনও আমার মিস্ট্রেসের জন্য একজন উপযুক্ত সঙ্গী খুঁজছিলাম। কিন্তু তেমন কাউকেই খুঁজে পাইনি।   “এই!! তুই কি এখনও আমার জন্য কোনো সঙ্গীর খোঁজে আছিস?” তিনি জিজ্ঞাসু স্বরে বললেন।   “আমি দু..."
 ---
 
