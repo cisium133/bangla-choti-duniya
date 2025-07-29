@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "21/07/2025"
 category: "গ্রুপ সেক্সের বাংলা চটি গল্প"
 tags: ["তরুণ বয়স্ক", "বাংলা পানু গল্প", "মা ও ছেলের চোদন কাহিনী"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/40/889-lounge.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/9/818_an_hardcore.jpg"
 excerpt: "টিনার চোখে ছিল দীপ্ত আগুন। এতদিন যে ভয় আর লজ্জা তাকে চেপে রেখেছিল, আজ সেই জায়গায় সে দাঁড়িয়েছে এক অদম্য প্রতিশোধে।   ঋষির হাতে ক্যামেরা, প্ল্যান, ক্লাউড রেকর্ডার।  টিনার হাতে অভিনয়—তার নিজের শরীর..."
 ---
 
