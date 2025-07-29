@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "20/07/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["দেওরের চোদা খাওয়া", "পারিবারিক সেক্স", "বেঙ্গলি সেক্স চটি", "বৌদি চোদার গল্প"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/23/528_a.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/29/873_Indian_teen_the.jpg"
 excerpt: "বিলপাড় থেকে যখন ফিরলাম, রাত বেশ গভীর হয়ে এসেছে। গ্রীষ্মের রাত। সারা দিন রোদের উত্তাপে জ্বলতে থাকা পৃথিবী এখন একটু একটু করে শান্ত হয়ে আসছে। উঠোনের মাঝে বসে বৌদি সেলাইয়ের কাজ করছে। চাঁদের আলোয় তার মুখখা..."
 ---
 
