@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "17/07/2025"
 category: "পরিপক্ব চোদাচুদির গল্প"
 tags: ["পরকিয়া চুদাচুদির গল্প", "পরিপক্ক চুদাচুদির গল্প", "বাংলা সেক্স স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/36/367_all_and.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/30/255_leone_photos.jpg"
 excerpt: "This story is part of the  বেয়াইনদিদিমণির পেটিকোট series             বেয়াইনদিদিমণির পেটিকোট- পর্ব ৩   ধীরে ধীরে মদনবাবু ও তরুলতাদেবী-র সম্বিত ফিরল । উলঙ্গ মদনবাবু কোনোরকমে ওনার বেয়াইনদিদিমণির দুই থাই..."
 ---
 
