@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "20/07/2025"
 category: "স্বামী স্ত্রীর বাংলা চটি গল্প"
 tags: ["পরিপক্ক চুদাচুদির গল্প", "পারিবারিক সেক্স", "বাংলা চটি গল্প"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/0/253_their_naked.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/31/431_increased.jpg"
 excerpt: "অরুণিমা আর দীপকের বিয়ে হয়েছে প্রায় দশ বছর। একটা সাধারণ মধ্যবিত্ত সংসার—সকাল সকাল অফিস, স্কুল বাস ধরানো, বাজার, রান্না, বাচ্চার হোমওয়ার্ক আর ছুটির দিনে আত্মীয়-বন্ধুর বাড়িতে যাওয়া।  এই নিয়মেই কাট..."
 ---
 
