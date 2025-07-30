@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "14/07/2025"
 category: "পরকীয়া"
 tags: ["ইরোটিক চটি", "গৃহবধূ", "পরকীয়া"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/38/475_Meated_indian_babe.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/35/914_Naughty_feet.jpg"
 excerpt: "পাশের বাড়িতে বছর পয়তাল্লিশ এর মিসেস শেফালী ঘোষ। অনেক দিন ধরে তক্কে তক্কে আছেন মদনবাবু এই শেফালী মাগীকে কিভাবে পটিয়ে বিছানাতে তোলা যায়। কিন্তু ঠিক সুযোগ এসেও আসছে না। ফর্সা শরীর । ভরাট পাছা। ডবকা চ..."
 ---
 
