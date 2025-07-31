@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "22/07/2025"
 category: "গৃহবধূর চোদন কাহিনী"
 tags: ["পরকিয়া চুদাচুদির গল্প", "পরিপক্ক চুদাচুদির গল্প", "বাংলা চটি গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/18/185_required.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/23/788_Indian_hottie_huge.jpg"
 excerpt: "দশম পর্বের পর…….   সকাল সকাল রিক্সা আর গাড়ির আওয়াজে পরমার ঘুম ভেঙে গেল। সেলিম ওকে জড়িয়ে ধরে শুয়ে আছে। ঘুমের মধ্যেও সেলিমের ধন টা পরমার থাই তে গুতা দিচ্ছে। সেলিম কে সরিয়ে পরমা উঠে আয়নার সামনে দাড়ালো। দ..."
 ---
 
