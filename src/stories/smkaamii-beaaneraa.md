@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "22/07/2025"
 category: "সমকামী বাংলা চটি গল্প"
 tags: ["বাংলা সেক্স স্টোরি", "লেসবিয়ান সেক্স স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/19/607_khushi_mouth.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/0/228_Horny_Indian.jpg"
 excerpt: "ইপা: প্রীতি দি আয় আয় দিদি বুকে আয়… উমমম উমমম আহ প্রীতি উমম উমম কতদিন পর ঠোট চুসছি রে উমম উমমম. উমম  প্রীতি: উমম উমমম আহ ইপা উমম উমমম তোর সরির টা কি নরম হইছে উমম উমমম আহ দুদের সাথে দুদ ডলে খুব আরাম পাচ..."
 ---
 
