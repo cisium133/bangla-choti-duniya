@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "18/07/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["বাংলা", "গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/29/893_Indian.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/38/277_hot_with.jpg"
 excerpt: "আমি সোম, সোমকান্তি বিশ্বাস।  গোপালপুরে আমার বাড়ি। আমার মা-বাবা আজ আর কেউই নেই। থাকার মধ্যে আছে কেবল একটি  বৌদি। দাদাও ছিলো, তিন মাস আগেও, হঠাৎ ডেঙ্গু জ্বরে প্রাণ হারাতে হলো তাঁকে। আর বৌদি হয়ে গেলো বিধ..."
 ---
 
