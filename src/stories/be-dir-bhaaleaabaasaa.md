@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "23/07/2025"
 category: "গৃহবধূর চোদন কাহিনী"
 tags: ["দেওরের চোদা খাওয়া", "পরকিয়া চুদাচুদির গল্প", "বেঙ্গলি সেক্স চটি", "বৌদি চোদার গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/24/474_coupled_with_poonam.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/0/228_Horny_Indian.jpg"
 excerpt: "সুইটি বৌদি যখন বিয়ে করে আসে আমার বয়স তখন ১৮। বিয়ের মন্ডপেই ওকে দেখে আমার ভালো লেগে যায়। তখন সদ্য উচ্চমাধ্যমিক পাশ‌ করেছি। দুরন্ত যৌবনে পা দিয়েছি, ফলে বিপরীত লিঙ্গের প্রতি তীব্র আকর্ষণ অনুভব করি। কিন্..."
 ---
 
