@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "21/07/2025"
 category: "ফেমডম বাংলা চটি গল্প"
 tags: ["বিডিএসএম সেক্স স্টোরিস", "বেঙ্গলি পর্ন স্টোরি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/2/806_piercing.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/39/461_.jpg"
 excerpt: "মিস প্রিয়া আমার সাথে মধ্যরাতের সৈকত বেড়ানো উপভোগ করছিলেন। আমি খুব একটা উপভোগ করছিলাম না। হাঁটুতে ভর দিয়ে তার সাথে তাল মিলিয়ে চলা এবং কুকুরের মতন গলায় একটা লেস দিয়ে টানা, যতটা সহজ শোনায় ততটা সহজ ছ..."
 ---
 
