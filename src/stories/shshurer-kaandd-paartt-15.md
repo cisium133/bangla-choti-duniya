@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "18/07/2025"
 category: "পরকিয়া বাংলা চটি গল্প"
 tags: ["তরুণ বয়স্ক", "বেঙ্গলি পর্ন স্টোরি", "বৌমা চোদার গল্প", "শশুর"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/0/293_naked.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/35/070_for_camera.jpg"
 excerpt: "আগের পর্ব   নিচে নেমে শশুর বাকিদের ফোন দিয়ে আসতে বললো কিসু দোকান পরেই দেখি ওরা সবাই দাঁড়িয়ে আছে সবার হাত এ শপিংব্যাগ… বুঝলাম যে সবার সবকিসু কেনা শেষ…. ফারিহা বললো তোর জন্য একটা সেক্সি বিকিনি কিনসি… দে..."
 ---
 
