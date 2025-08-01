@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "22/07/2025"
 category: "পরকিয়া বাংলা চটি গল্প"
 tags: ["কাকি চোদার গল্প", "গুদ মারা", "তরুণ বয়স্ক", "পরকিয়া চুদাচুদির গল্প", "বাংলা পানু গল্প"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/0/296_Exotic.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/16/059_indian_teamed_her.jpg"
 excerpt: "প্রথম পর্বের পর……   আমি কাকিমার পায়ের কাছে এসে পায়ের আঙুলগুলো চুষতে শুরু করলাম। তারপর আস্তে আসতে উপরের দিকে উঠে কাকিমার থাইতে চুমু খেয়ে চাটতে লাগলাম। কাকিমার নিশ্বাস ঘন হয়ে এলো, পা দুটো ফাঁক করে দিলো..."
 ---
 
