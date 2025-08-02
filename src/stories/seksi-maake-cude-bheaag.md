@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "23/07/2025"
 category: "ইনসেস্ট"
 tags: ["অজাচার চটি", "ইরোটিক চটি", "গৃহবধূ", "মা ছেলে"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/12/702_indian.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/20/355_milf_gets.jpg"
 excerpt: "এই গল্প টা আমার বন্ধু অভ্রনীল এবং তার মা জয়শ্রীর। আমার বন্ধু তার মায়ের শরীরটা কে অসীম কামনা করে, কিন্তু তার মা জয়শ্রী এতোটাই সরল যে উনি সেটা কোনো দিনই টের পাননি। একেবারে নিজের ছেলের হাতে, বা বলা যেতে..."
 ---
 
