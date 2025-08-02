@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "18/07/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["দেওরের চোদা খাওয়া", "পারিবারিক সেক্স", "বাংলা সেক্স স্টোরি", "বৌদি চোদার গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/35/678_affairs.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/0/296_Exotic.jpg"
 excerpt: "সৃতি: কেমন আচো বাবু …  বাবু: হুম বৌদি ভালো, তুমি কেমন আচো বলো.. কতদিন কথা হয়না..  সৃতি: হা গো, খুব সমসার মধ্যে আছি.. তোমাকে যদি বলতে পারতাম..  বাবু: কেনো কি হয়েছে বলো, আমাকে বলা যাবেনা কেনো..  সৃতি: ত..."
 ---
 
