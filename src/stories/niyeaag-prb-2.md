@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "01/08/2025"
 category: "পরকিয়া বাংলা চটি গল্প"
 tags: ["পরকিয়া চুদাচুদির গল্প", "বেঙ্গলি সেক্স চটি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/32/052_together_gets_fucked.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/23/788_Indian_hottie_huge.jpg"
 excerpt: "মাধবী সমরেশের বাড়িটা ঘুরে দেখছিল। দোতলা বাড়ি, একা থাকে সমরেশ। আগেও অবশ্য মাধবী এসেছে বিমলের সাথে তবে আজ যেন তার নতুন করে চেনার পালা এই ১১/বি নম্বর বাড়িটাকে। কারণ এখানে আজ তার পূনরায় বাসর হবে, তবে রাতে..."
 ---
 
