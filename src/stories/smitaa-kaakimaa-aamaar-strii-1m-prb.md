@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "20/07/2025"
 category: "পরকিয়া বাংলা চটি গল্প"
 tags: ["কাকি চোদার গল্প", "গুদ মারা", "তরুণ বয়স্ক", "পরকিয়া চুদাচুদির গল্প", "বাংলা পানু গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/27/149_Real.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/23/591_oneself.jpg"
 excerpt: "নমস্কার বন্ধুরা আশা করি সবাই ভালো আছেন। আমার নাম সুস্নাত আচার্য। সবাই আমাকে সুনু বলে ডাকে। আমি হলাম এই কাহিনীর নায়ক। এই কাহিনীর যিনি নায়িকা, তিনি আমার কিশোর বয়সের ফ্যান্টাসি আমার কাকিমা, নাম স্মিতা..."
 ---
 
