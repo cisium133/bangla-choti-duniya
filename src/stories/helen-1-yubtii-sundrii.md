@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "20/07/2025"
 category: "নতুন চটি গল্প"
 tags: ["ইরোটিক চটি", "নতুন চটি গল্প", "পরকীয়া", "বৌদি", "যুবতী"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/15/528_everywhere_coupled.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/23/452_to_suck.jpg"
 excerpt: "আহসান হাবিব একজন পুলিশ অফিসার। তাঁর দুই ছেলে আর এক মেয়ে। মেয়ে হেলেন, মেঝ। সিরাজ, বড় ছেলে আর সাবু ছোট ছেলে। হাবিব সাহেব ছিলেন খুবই ধার্মিক, স্ত্রী এবং মেয়েকে কড়া পর্দার ভেতর রাখতেন। ওদরে বাইরে গেলে বোর..."
 ---
 
