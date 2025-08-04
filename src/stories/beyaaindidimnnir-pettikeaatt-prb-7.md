@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "25/07/2025"
 category: "পরিপক্ব চোদাচুদির গল্প"
 tags: ["পরকিয়া চুদাচুদির গল্প", "পরিপক্ক চুদাচুদির গল্প", "বাংলা সেক্স স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/30/746_Indian_posing_naked.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/28/550_for_the_camera.jpg"
 excerpt: "This story is part of the  বেয়াইনদিদিমণির পেটিকোট series             বেয়াইনদিদিমণির পেটিকোট পর্ব ৭   তরুলতাদেবী বুঝতে পারলেন যে এই একতলার বাথরুম থেকে বেয়াইমশাই মদনবাবু-র জাঙ্গিয়াখানা নির্ঘাত তার কন্যা..."
 ---
 
