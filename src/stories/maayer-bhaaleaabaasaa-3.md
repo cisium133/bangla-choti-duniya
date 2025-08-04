@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "17/07/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["তরুণ বয়স্ক", "পারিবারিক সেক্স", "বাঁড়া চোষা", "বাংলা চটি গল্প", "মা ও ছেলের চোদন কাহিনী"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/39/461_.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/14/906_Leader_indian.jpg"
 excerpt: "আগের পর্ব   সকালে সামিমের মা ঘুম থেকে উঠে দেখলেন সামিম তাঁকে জড়িয়ে ধরে ঘুমিয়ে আছে। মা সামিমকে আসতে করে সরিয়ে উঠে গেলেন। তলপেতে বীর্যের সাদা দাগ এখনও লেগে রয়েছে। মা সাড়ি আর ব্লাউজ হাতে নিয়ে বাথর..."
 ---
 
