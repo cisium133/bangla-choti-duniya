@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "19/07/2025"
 category: "ফেমডম বাংলা চটি গল্প"
 tags: ["বিডিএসএম সেক্স স্টোরিস", "বেঙ্গলি পর্ন স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/36/367_all_and.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/23/452_to_suck.jpg"
 excerpt: "মিস্ট্রেস প্রীতি আমার দেবীকে চ্যালেঞ্জ ছুঁড়ে দিয়েছেন।   অদ্ভুত এক পরিস্থিতিতে আমি পড়ে গিয়েছিলাম—একদিকে আমার অস্থায়ী মিস্ট্রেস, অপরদিকে আমার চিরস্থায়ী দেবী ওরফে মিস্ট্রেস। এই দুই নারীর মধ্যে যে ক্..."
 ---
 
