@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "24/07/2025"
 category: "পরকিয়া বাংলা চটি গল্প"
 tags: ["কাকি চোদার গল্প", "গুদ মারা", "তরুণ বয়স্ক", "পরকিয়া চুদাচুদির গল্প", "বাংলা পানু গল্প"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/39/892_Poon.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/39/461_.jpg"
 excerpt: "দ্বিতীয় পর্বের পর……   কাকিমা – ইসসসস কত মাল ফেলেছ দেখ! (বলে গুদের মুখে হাত চাপা দিয়ে) অ্যাই, একটা ছেঁড়া ন্যাকড়া দাও না গো, গুদটা মুছে নি‌ই। নাহলে চাদরটা নোংরা হয়ে যাবে। দেখ কতটা মাল ফেলেছ, এখনো হড়হ..."
 ---
 
