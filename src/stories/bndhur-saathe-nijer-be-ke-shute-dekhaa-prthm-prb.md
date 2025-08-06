@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "01/08/2025"
 category: "গৃহবধূর চোদন কাহিনী"
 tags: ["পরকিয়া চুদাচুদির গল্প", "বন্ধুর বৌকে চোদার গল্প", "বাংলা পানু গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/30/338_widely.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/0/293_naked.jpg"
 excerpt: "আমারা আর রিতার বিয়ে হয়েছে প্রায় দু’বছর হলো।  গ্রামের থেকে এসে শহরে এসে একটা কাজ করে চলছিল আমাদের সংসার।  কোলকাতা শহরে আসার পর থেকে আমাদের এখানে চেনা যদি কেউ থাকে সেটা হলো জয়।  হঠাৎ করেই আমাদের অফি..."
 ---
 
