@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "28/07/2025"
 category: "সেরা বাংলা চটি"
 tags: ["অর্গি সেক্স", "পরকিয়া চুদাচুদির গল্প", "পারিবারিক সেক্স", "বেঙ্গলি সেক্স চটি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/39/097_Comics_Heart.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/35/070_for_camera.jpg"
 excerpt: "আগের পর্ব   প্রথমেই দুঃখিত, এত সময় পাঠকদের ওয়েট করানোর জন্য।  আমার গল্পটির বয়স এখন ২ বছর পার হয়েছে। তাই পাঠকদের অনুরোধ করব, আগের পর্বগুলো পড়ে আসার জন্য। তাহলেই কাহিনীর এ পর্বখানা বুঝতে সুবিধা হবে। শুধ..."
 ---
 
