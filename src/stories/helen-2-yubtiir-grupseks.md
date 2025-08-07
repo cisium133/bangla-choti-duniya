@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "26/07/2025"
 category: "নতুন চটি গল্প"
 tags: ["গৃহবধূ", "গ্রুপসেক্স", "নতুন চটি গল্প", "পরকীয়া", "যুবতী"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/35/661_Saleena.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/37/897_the.jpg"
 excerpt: "আমি বাশার আর ফারুকের মাঝে পরে স্যান্ডউইচ হয়ে গিয়েছিলাম। ভোদায় একজনের হাত আর দুধে আর একজনের হাত পরাতে যৌন উত্তেজনায় আমার প্যান্টি ভিজে গিয়েছিল। বাশার টেনে আমার কামিজটা মাথার ওপর দিয়ে বের করে দিলে আমার..."
 ---
 
