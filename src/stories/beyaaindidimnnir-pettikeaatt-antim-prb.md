@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "27/07/2025"
 category: "পরিপক্ব চোদাচুদির গল্প"
 tags: ["পরকিয়া চুদাচুদির গল্প", "পরিপক্ক চুদাচুদির গল্প", "বাংলা সেক্স স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/0/228_Horny_Indian.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/29/582_by_6.jpg"
 excerpt: "This story is part of the  বেয়াইনদিদিমণির পেটিকোট series             বেয়াইনদিদিমণির পেটিকোট — শেষ পর্ব   কাবেরী বৌমার গুদের ভেতর মামাশ্বশুরমশাই মদনবাবু মোটামুটি পৌনে এক কাপ গরম ঘন বীর্য্য উদ্গীরণ করে..."
 ---
 
