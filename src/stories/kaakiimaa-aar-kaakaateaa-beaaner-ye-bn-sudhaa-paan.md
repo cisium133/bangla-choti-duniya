@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "22/07/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["কচি গুদ মারার গল্প", "কাকি চোদার গল্প", "তরুণ বয়স্ক", "পারিবারিক সেক্স", "বাংলা চটি গল্প", "ভাই বোনের চোদন কাহিনী"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/23/528_a.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/15/863_Sita_is_note.jpg"
 excerpt: "আমার নাম আকাশ।২৫ বছরের তরতাজা যুবক আমি। থাকি কলকাতায় একটা ওয়ান বি এইচ কে ফ্লাটে ভাড়া নিয়ে।  বাবা মা বহুদিন গত হয়েছেন। আত্মীয় স্বজনের সাথেও সেভাবে সম্পর্ক নেই।  একটা সরকারী অফিসে ক্লারিকাল পদে চাকরী কর..."
 ---
 
