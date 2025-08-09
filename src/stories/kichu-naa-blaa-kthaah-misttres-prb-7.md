@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "23/07/2025"
 category: "ফেমডম বাংলা চটি গল্প"
 tags: ["বিডিএসএম সেক্স স্টোরিস", "বেঙ্গলি পর্ন স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/11/215_dark_Rai_washed.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/5/671_and.jpg"
 excerpt: "আমি সকালে তাড়াতাড়ি উঠে আমার মিস্ট্রেসের তাঁবুর সামনে হাঁটু গেড়ে বসলাম, সবাই যতক্ষণ না উঠে। শীঘ্রই, আমি আমার মিস্ট্রেসের আদেশ শুনতে পেলাম। আমি তৎক্ষণাৎ তার তাঁবুর ভিতরে হামাগুড়ি দিয়ে ঢুকলাম এবং বা..."
 ---
 
