@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "21/07/2025"
 category: "গার্লফ্রেন্ড"
 tags: ["ইরোটিক চটি", "বৌদি", "যুবতী"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/23/788_Indian_hottie_huge.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/11/215_dark_Rai_washed.jpg"
 excerpt: "“এই, ছাড়ো না প্লিস”, ছাড়ো শব্দটার সঙ্গে অনেকগুলো ‘ও’ যোগ আদুরে গলায় বললো টাপুর। কিন্তু যাকে উদ্দেশ্য করে বলা, সেই রাকেশ আগরওয়াল ওরফে কলেজের বিখ্যাত রোমিও রকি দি স্টাড, এসব কথায় কান দেওয়ার বান্দা..."
 ---
 
