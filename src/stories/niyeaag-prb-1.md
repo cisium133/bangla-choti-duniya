@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "29/07/2025"
 category: "পরকিয়া বাংলা চটি গল্প"
 tags: ["পরকিয়া চুদাচুদির গল্প", "বেঙ্গলি সেক্স চটি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/24/474_coupled_with_poonam.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/34/665_gfs_posing_for.jpg"
 excerpt: "এলাকার একটি বাড়ি, যার ঠিকানা ১১/বি, বি কে পাল অ্যাভেনিউ। তার সামনে গাড়িটা এসে থামলো। মাধবী একবার বিমলের দিকে তাকালো। বিমলের চোখ ছিল উইন্ড গ্লাসে, হাত স্টিয়ারিং-এ। সে চাইছিলনা পাশের সিটে বসা মানুষটির চ..."
 ---
 
