@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "07/08/2025"
 category: "বান্ধবী চোদার বাংলা চটি গল্প"
 tags: ["কলেজ গার্ল সেক্স", "প্রথমবার চোদার গল্প", "বান্ধবী চোদার গল্প", "বাংলা চটি গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/27/149_Real.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/0/296_Exotic.jpg"
 excerpt: "আমি ১২ত বোর্ডস পার করি বেশ কিছু বছর আগে। তারপর রানিং বছরে এন্ট্রান্স দিলেও সেভাবে ফল আনতে পেরে উঠিনি। তারপর আরো দুটো বছর আমি ড্রপ দিয়ে দেই এনট্রেন্সে নিজেকে যোগ্য প্রমাণ করে একটা ভালো জায়গায় পড়তে..."
 ---
 

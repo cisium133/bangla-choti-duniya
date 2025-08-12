@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "10/08/2025"
 category: "সেরা বাংলা চটি"
 tags: ["থ্রীসাম চুদাচুদির গল্প", "পারিবারিক সেক্স", "বাংলা চটি গল্প", "বৌমা চোদার গল্প", "শশুর", "হট বাংলা চটি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/13/825_sucking.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/9/818_an_hardcore.jpg"
 excerpt: "This story is part of the  বনেদি বাড়ির কেচ্ছা – ফুলশয্যা series             সুশীল এবার ঘরের দরজাটা ভেজিয়ে দিলো। ফুলশয্যার ঘরটায় ফুলের গন্ধে ভরে আছে। ঘরটায় এসি চলছে। সামনে সুন্দরী দর্শনাকে দেখে সুশীলের..."
 ---
 
