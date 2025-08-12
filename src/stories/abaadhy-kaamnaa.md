@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "23/07/2025"
 category: "গৃহবধূর চোদন কাহিনী"
 tags: ["গুদ মারা", "পরকিয়া চুদাচুদির গল্প", "বাংলা সেক্স স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/15/528_everywhere_coupled.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/5/701_Exciting_hindu_s.jpg"
 excerpt: "আমি একজন মধ্যবিত্ত বাঙ্গালী সংসারী মানুষ. আমার বয়স তিরিশের বেশীই হবে.আমার বৌ রত্না একুশ বছরের তরুণী.উদ্দাম যৌবন. শরীরে প্রবল কামনা. মাই দুটোর সুউচ্চ গঠন এতটাই উন্মুক্ত দেখলে কামনা মেঠাবার শখ হবে যে কো..."
 ---
 
