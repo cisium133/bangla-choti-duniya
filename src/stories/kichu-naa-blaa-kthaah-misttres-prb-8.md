@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "25/07/2025"
 category: "ফেমডম বাংলা চটি গল্প"
 tags: ["বিডিএসএম সেক্স স্টোরিস", "বেঙ্গলি পর্ন স্টোরি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/37/053_Wet_girls_out.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/34/331_about_her_pussy.jpg"
 excerpt: "দিনটি কেটে যাচ্ছিল নির্ঝঞ্ঝাটভাবে। আবহাওয়াটা ছিলো উষ্ণ আর স্বস্তিকর। দেবীরা সৈকতে খেলায় মত্ত ছিল এবং ফাঁকে ফাঁকে সুদর্শন পুরুষদের দিকে চোখ রেখে মজা পাচ্ছিল। আমার স্ত্রীর মুখে সেই প্রাণবন্ত হাসি, প্র..."
 ---
 
