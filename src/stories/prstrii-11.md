@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "29/07/2025"
 category: "গৃহবধূর চোদন কাহিনী"
 tags: ["পরকিয়া চুদাচুদির গল্প", "বাংলা চটি গল্প", "বৌদি চোদার গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/5/671_and.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/37/157_Naveen_meenaksh_cumming.jpg"
 excerpt: "আগের পর্ব  ( যারা আমার গল্প প্রথম বার পড়ছো তারা একটু আগের পর্ব থেকে পড়ো )   এতদিন যা পড়েছেন – দুজনে মিলে  লাঞ্চ করলাম, সবশেষে রাতে আসবো –  বলে চলে এলাম।   তারপর – রুমে এসে একটা সলিড ঘুম, চোখ মুখ ফুলিয়..."
 ---
 
