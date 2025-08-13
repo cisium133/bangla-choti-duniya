@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "09/08/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["বাংলা", "গল্প"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/39/892_Poon.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/27/992_shows_snatcho.jpg"
 excerpt: "আমি রাহুল রায়, আমার বয়স ১৯। আমার পরিবারে ৫ জন আমি, আমার মা, বাবা , আমার বড় বোন ও ছোটো বোন। এদের মধ্যে ৩ জন হলো একদম জঘন্য নোংরা মাগি । আমি এমন কেন বলছি তা আপনারা আগে গল্পে জানতে পারবেন। তাহলে বন্ধু..."
 ---
 

@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "08/08/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["তরুণ বয়স্ক", "পারিবারিক সেক্স", "বাংলা চটি গল্প", "মা ও ছেলের চোদন কাহিনী"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/18/759_with_hose.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/22/145_hammer.jpg"
 excerpt: "হ্যালো বন্ধুরা, আমার নাম রানি। বয়স ৪২ বছর, গায়ের রঙ ফর্সা, ভারী মাই – ঢিলেঢালা আর বড় পাছা যা এখনও হাটলেই দুলে। আমার গোলাপি ঠোঁট এখনও যৌবনের লক্ষণ দেখায়, আর আমার উরুগুলো মসৃণ। আমার স্বামী মারা গেছে..."
 ---
 
