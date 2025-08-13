@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "06/08/2025"
 category: "কাজের মাসি চোদার গল্প"
 tags: ["কাজের মাসি", "গুদ মারা", "টিনেজার সেক্স", "তরুণ বয়স্ক", "বাংলা চটি গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/39/296_Big.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/33/998_of.jpg"
 excerpt: "কলেজ থেকে এসে ১৮ বছরের ছাত্র আসিফ বাথরুমে গিয়ে পেন্ট খুলে ওর বাঁড়া ধরে টিপতে থাকলো। কিছুদিন আগেও বাঁড়া মসৃন শ্যামলা ছিল কিন্তু এখন চুল গজিয়ে কালো সাপের মতো লম্বা আর শক্ত হয়ে যাই। দুর্ভাগ্যবশত ছোটবেলায়..."
 ---
 
