@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "11/08/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["তরুণ বয়স্ক", "পারিবারিক সেক্স", "বাংলা পানু গল্প", "মা ও ছেলের চোদন কাহিনী"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/34/665_gfs_posing_for.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/22/740_gets_fucked.jpg"
 excerpt: "আমি আকাশ রয়। স্ত্রী সপ্না । ছেলে সুমন এক মেয়ে সীমা । পাঁচ বছর আগে সীমা জন্মের কয়েক মাস পর সিএনজি এক্সিডেন্ড করে আমি মুমূর্ষ অবস্থায় ছিলাম কয়েকমাস। দীর্ঘদিন অসুস্থ থাকায় আমার শারীরিক সক্ষমতা হারি..."
 ---
 
