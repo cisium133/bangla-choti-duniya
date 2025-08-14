@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "09/08/2025"
 category: "বান্ধবী চোদার বাংলা চটি গল্প"
 tags: ["কলেজ গার্ল সেক্স", "প্রথমবার চোদার গল্প", "বান্ধবী চোদার গল্প", "বাংলা চটি গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/14/349_establishing_situation_here.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/5/037_princess_helter_skelter.jpg"
 excerpt: "নিজের সাথে চোখ মেলতে বড়ই লজ্জা লাগছিল। এটা সত্যি যে হর্নিনেস ক্লাস ৭-৮ থেকেই অত্যন্ত বেশি আমার। কিন্তু তবুও প্রকৃতপক্ষে যখন এরকম একখান ঘটনা ঘটে আমি বেশ চমকে গেলাম।  আমি আয়নার সামনে দাড়িয়ে নিজেকে প..."
 ---
 

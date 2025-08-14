@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "13/08/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["তরুণ বয়স্ক", "পারিবারিক সেক্স", "বাংলা চটি গল্প", "মা ও ছেলের চোদন কাহিনী"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/0/296_Exotic.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/37/121_Hot_indian_minimal.jpg"
 excerpt: "আমার নাম দীপক। আমাদের বাড়িতে আমার বাবা, মা, আমি এবং আমার ছোট ভাই আছি। আমার বয়স ২১ বছর, বাবার ৪৮ এবং মায়ের ৪৫ বছর। আমার বাবার একটি বড় ওষুধের হোলসেল দোকান আছে, তাই বাবা তার ব্যবসায় খুব ব্যস্ত থাকেন..."
 ---
 
