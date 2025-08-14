@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "31/07/2025"
 category: "সেরা বাংলা চটি"
 tags: ["গুদ মারা", "পরকিয়া চুদাচুদির গল্প", "বাংলা চটি গল্প"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/14/906_Leader_indian.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/35/661_Saleena.jpg"
 excerpt: "বিয়ের পর মাত্র এক মাস পেরিয়েছে। বিডিশা প্রথমবার নিজের শহর ছেড়ে এসেছেন অমিতের সঙ্গে—এই ছোট্ট, অচেনা মফস্বল শহরে। কলকাতার কোলাহল থেকে বহু দূরে, শান্ত একটি পাড়া। অমিত এখানে নতুন একটি প্রজেক্টে জয়েন করেছে..."
 ---
 
