@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "05/08/2025"
 category: "পরিপক্ব চোদাচুদির গল্প"
 tags: ["গুদ মারা", "পরকিয়া চুদাচুদির গল্প", "বাঁড়া চোষা", "বাংলা সেক্স স্টোরি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/23/452_to_suck.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/34/914_Indian_bed.jpg"
 excerpt: "ওর মুখের চাহনীতে বুঝলাম ও বলছে নাও আমি রেডি, তুমি স্টার্ট করো। আমি এক ধাক্কা দিলাম নিজের বাড়া দিয়ে, ওর গুদের ভিতর আর সাথে সাথেই আমার ভুল টা ভেঙ্গে গেল। এই গুদের মালিক আমি প্রথম না। এই ধানে আগেই কেউ মই..."
 ---
 
