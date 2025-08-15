@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "15/08/2025"
 category: "নতুন চটি গল্প"
 tags: ["গ্রুপসেক্স", "নতুন চটি গল্প", "যুবতী"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/23/788_Indian_hottie_huge.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/17/554_armenian.jpg"
 excerpt: "আমি তখন কলেজে পড়ি। একটা ঘটনা আমার জীবনের মোর ঘুরিয়ে দিল। আমরা ডেটিং করতে গেলে সুমন আমাকে নাানন রকম প্রেজেন্ট দিত। সুমন আমাকে বেশ কয়েকবারে তিন/চারটা ম্যাকের লিপস্টিক, দুটা ১০০ এমল-র পারফিউম আর বেশ কয়েক..."
 ---
 
