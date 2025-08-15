@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "30/07/2025"
 category: "সেরা বাংলা চটি"
 tags: ["কচি গুদ মারার গল্প", "তরুণ বয়স্ক", "পারিবারিক সেক্স", "বাংলা চটি গল্প"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/23/591_oneself.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/22/145_hammer.jpg"
 excerpt: "আগের পর্ব    তারপর কাকা চলে গেল ওই রাতে।  আর দিদি আমাকে বোঝাতে লাগলো দেখ ভাই কাকাকে যদি আমাদের বাড়ির থাকে বাবার মত তাহলে আমাদের কত সুবিধা হবে বল সে আমাদের দেখাশোনা করবে সঙ্গে কিছু টাকা পয়সা ও দেবে আ..."
 ---
 
