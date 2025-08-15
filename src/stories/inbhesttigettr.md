@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "07/08/2025"
 category: "বাংলা চটি গল্প - bangla choti golpo"
 tags: ["বাংলা", "গল্প"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/13/747_amateur.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/34/507_babe_gets_ass.jpg"
 excerpt: "তুমি এভাবে যখন তখন ফোন দাও কেন? আমি না বলেছি ম্যাসেজ দিতে? আজ কি বিব্রতকর অবস্থায় পড়েছিলাম জানো?”নির্জনের ঘরে ঢুকেই প্রশ্নবাণ ছুঁড়ে মারল সাইফা। কোন চেয়ার না থাকায় বসল বিছানাতেই। নির্জন বিচলিত হলো না ত..."
 ---
 
