@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "08/08/2025"
 category: "সেরা বাংলা চটি"
 tags: ["বাংলা", "গল্প"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/17/554_armenian.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/16/968_to_fucking.jpg"
 excerpt: "আজ আমি সমস্ত পাঠকদের কাছে এমন এক যৌন কাহিনী প্রস্তাবিত করবো যেই কাহিনী এক নব গৃহবধূর ব্যাভিচারিতা অবলম্বনে রচিত। এটি একটি সত্য ঘটনা। আমাদের পাড়ায় সৌরভ দাস নামের এক বড়ো ব্যবসায়ী ছিল। সৌরভের বয়স ২৬ বছর।..."
 ---
 
