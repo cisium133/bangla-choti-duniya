@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "11/08/2025"
 category: "বান্ধবী চোদার বাংলা চটি গল্প"
 tags: ["প্রথমবার চোদার গল্প", "বান্ধবী চোদার গল্প", "বেঙ্গলি পর্ন স্টোরি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/14/310_girlfriends.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/34/914_Indian_bed.jpg"
 excerpt: "আগের পর্ব   তখন আমরা দুজন উঠে বাসের টিকিট কাটতে গেলাম আরামবাগ থেকে আর রাতে কক্সবাজার উদ্দেশ্যে এসি বাসে যাবো ডি ওয়ান ডি টু সিট নিলাম। টিকেটের টাকা দিতে যাব তখন নেলি নিজে থেকে টিকেটের টাকা দিল দিয়ে ব..."
 ---
 
