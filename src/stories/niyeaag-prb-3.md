@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "05/08/2025"
 category: "পরকিয়া বাংলা চটি গল্প"
 tags: ["পরকিয়া চুদাচুদির গল্প", "বেঙ্গলি সেক্স চটি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/23/452_to_suck.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/20/355_milf_gets.jpg"
 excerpt: "মাধবীর থেকে কোনো বাঁধা না পেয়ে সমরেশের আত্মবিশ্বাস তখন গগনচুম্বী। সে চটজলদি পরনে থাকা জামদানি শাড়িটা টান মেরে খুলে ফেলতে চাইছিলো। কিন্তু মাধবী বিছানায় শায়িত অবস্থায় থাকায় সেটা সম্ভব হচ্ছিলো না। তাই মা..."
 ---
 
