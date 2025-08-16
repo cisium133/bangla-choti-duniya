@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "15/08/2025"
 category: "বান্ধবী চোদার বাংলা চটি গল্প"
 tags: ["কলেজ গার্ল সেক্স", "প্রথমবার চোদার গল্প", "বান্ধবী চোদার গল্প", "বাংলা চটি গল্প"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/24/474_coupled_with_poonam.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/39/380_Indian_Velamma_64.jpg"
 excerpt: "দেখতে দেখতে দুর্গাপুজো এসে গেল।   সেই ঘটনার পর, অনিসা প্রায় আমার সঙ্গে যোগাযোগ বন্ধই করে দিয়েছিল।  আমিও আর খোঁজ নেইনি।  মনের ভেতরে এক ধরনের তীব্র ঘৃণা জমে উঠেছিল নিজের প্রতি—  ভালোবাসা শব্দটার মানে..."
 ---
 
