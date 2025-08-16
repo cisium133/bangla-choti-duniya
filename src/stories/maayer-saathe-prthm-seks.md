@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "15/08/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["তরুণ বয়স্ক", "পারিবারিক সেক্স", "বেঙ্গলি পর্ন স্টোরি", "মা ও ছেলের চোদন কাহিনী"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/29/582_by_6.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/29/893_Indian.jpg"
 excerpt: "আমার নাম রাজ। আমার বাড়িতে আমরা মাত্র তিনজন, আমি, আমার বাবা, আর আমার হট সেক্সি মা। আমার বয়স ২৩, আমার বাবার বয়স ৪৮ আর মার বয়স ৪৪। তাহলে আমি আপনাকে এই গল্পের নায়িকার চরিত্রটি বলি।   মার নাম জ্যোতি, গায..."
 ---
 

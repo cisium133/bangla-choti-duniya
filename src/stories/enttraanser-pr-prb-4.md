@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "13/08/2025"
 category: "বান্ধবী চোদার বাংলা চটি গল্প"
 tags: ["কলেজ গার্ল সেক্স", "প্রথমবার চোদার গল্প", "বান্ধবী চোদার গল্প", "বাংলা চটি গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/27/992_shows_snatcho.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/14/310_girlfriends.jpg"
 excerpt: "অনিসা শুরুতে বেশ ভেঙে পড়লেও ও মাথা নিচু করে যেন আমার দিকে আরো রাগে ফেটে তাকাল। আমিও একটু ভিতভাবে তাকালাম। যেই জামা আস্তে আস্তে ও খুলছিল সেটা প্রায় ছিঁড়ে ফেলে দেওয়ার উপক্রম করলো আনিশা। আমি অবাক হয়..."
 ---
 

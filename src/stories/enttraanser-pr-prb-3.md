@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "11/08/2025"
 category: "বান্ধবী চোদার বাংলা চটি গল্প"
 tags: ["কলেজ গার্ল সেক্স", "প্রথমবার চোদার গল্প", "বান্ধবী চোদার গল্প", "বাংলা চটি গল্প"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/5/671_and.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/17/105_teen_posing_camera.jpg"
 excerpt: "আমি ঘুম থেকে উঠে দেখি বাইরে বিকেলের আলো। মোবাইলে চোখ রাখতেই দেখি বাজে প্রায় পাঁচটা। ঘরের চারপাশে তাকিয়ে দেখি—অনিসা নেই। চিপসের খালি প্যাকেট, আধখালি কোকের বোতল গড়িয়ে আছে মেঝেতে। আমি উঠে দাঁড়ালাম।..."
 ---
 
