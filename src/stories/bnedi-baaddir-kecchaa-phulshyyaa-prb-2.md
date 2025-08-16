@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "09/08/2025"
 category: "সেরা বাংলা চটি"
 tags: ["থ্রীসাম চুদাচুদির গল্প", "পারিবারিক সেক্স", "বাংলা চটি গল্প", "বৌমা চোদার গল্প", "শশুর", "হট বাংলা চটি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/16/059_indian_teamed_her.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/13/129_and.jpg"
 excerpt: "This story is part of the  বনেদি বাড়ির কেচ্ছা – ফুলশয্যা series             সৌরভ যেদিন বিদেশে চলে যায় তার পরের দিন সৌরভের বাবা সুশীল দর্শনার ঘরে যায় আর দর্শনাকে বলে, “বৌমা আমি জানি তোমার অনেক কষ্ট হচ্..."
 ---
 
