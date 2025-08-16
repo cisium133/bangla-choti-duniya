@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "08/08/2025"
 category: "অজাচার বাংলা চটি গল্প"
 tags: ["কাকি চোদার গল্প", "তরুণ বয়স্ক", "পারিবারিক সেক্স"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/24/979_nude.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/36/767_and.jpg"
 excerpt: "আমার নাম এখানে ইকটু লুকানোই থাক।আমার কাকির নামও আমি বলতে চাচ্ছি না।কিন্তু আমার একটা অনুরোধ আছ।আপনি যদি আপনার কাকির প্রতি টান অনুভব না করেন দয়া করে এই গল্পটি পরবেন না।গল্পটি পরার সময় আপনি আপনার কাকির ক..."
 ---
 
