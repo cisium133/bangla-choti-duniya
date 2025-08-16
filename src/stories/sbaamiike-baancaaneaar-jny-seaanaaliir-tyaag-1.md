@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "31/07/2025"
 category: "গৃহবধূর চোদন কাহিনী"
 tags: ["গুদ মারা", "পরকিয়া চুদাচুদির গল্প", "বেঙ্গলি সেক্স চটি"]
-imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/5/020_coupled.jpg"
+imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/0/267_Indian_BFs.jpg"
 excerpt: "বয়স ২৫ এর ছেলে দ্বীপ। জন্মসূত্রে গ্রামের ছেলে হলেও এখনো কাজ করে কলকাতার একটি কোম্পানিতে। আর ওর স্ত্রী সোনালী সেও একই কোম্পানিতে কাজ করে কিন্তু ওর নিচে। খুবই কর্মঠ ওরা দুজন। তাই কদিনের মধ্যেই অচেনা কল..."
 ---
 
