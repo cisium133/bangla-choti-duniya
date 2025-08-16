@@ -4,7 +4,7 @@ author: "Anonymous"
 publishedDate: "04/08/2025"
 category: "স্টুডেন্টস বাংলা চটি গল্প"
 tags: ["টিচার স্টুডেন্ট সেক্স", "টিনেজার সেক্স", "তরুণ বয়স্ক", "বাংলা সেক্স স্টোরি"]
-imageUrl: "http://i2.eastcontent.top/images/xxxindiansex.pro/5/037_princess_helter_skelter.jpg"
+imageUrl: "http://i1.eastcontent.top/images/xxxindiansex.pro/13/056_the.jpg"
 excerpt: "আমি ছোট বেলা থেকে একটা মিস এর কাছে থাকতাম । যেটা ছিল একটা মেস বাড়ি। আমি ছোট বেলা থেকেই দেখতাম মিস এর দুদ গুলো খুব বড় ঠিক একটা ছোটো বাচ্চার মাথার মতো বড়ো। ক্লাস ৫ থেকে ক্লাস ১২ হয়ে গেলো ,এইসব দেখতে..."
 ---
 
